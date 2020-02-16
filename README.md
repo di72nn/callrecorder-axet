@@ -17,7 +17,7 @@ Minimum supported API is 19 (Android 4.4). This module is probably not needed on
 * Install the module using Magisk Manager.
 * Reboot.
 * Open Call Recorder, modify settings as desired (you might want to leave "Recording Source" on "Auto";
-there's **NO** need to use "System Mixer Incall Recording" in the app).
+there's **NO** need to use root (for "System Mixer Incall Recording") in the app).
 * Activate call recording by checking the "Calls Recording" checkmark, grant requested permissions.
 * Enjoy!
 
