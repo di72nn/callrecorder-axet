@@ -1,4 +1,4 @@
-# Call Recorder (app by axet)
+# Axet's Call Recorder
 
 This module installs axet's [Call Recorder](https://f-droid.org/en/packages/com.github.axet.callrecorder/)
 as a system app, allowing it to use the `CAPTURE_AUDIO_OUTPUT` system permission to properly record calls.
