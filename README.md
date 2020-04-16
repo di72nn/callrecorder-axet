@@ -14,7 +14,8 @@ Minimum supported API is 19 (Android 4.4). This module is probably not needed on
 
 ## How to use
 
-* Install the module using Magisk Manager.
+* Install the module using Magisk Manager (either by downloading the module within the app
+or by manually downloading [a zip from releases](https://github.com/di72nn/callrecorder-axet/releases)).
 * Reboot.
 * Open Call Recorder, modify settings as desired (you might want to leave "Recording Source" on "Auto";
 there's **NO** need to use root (for "System Mixer Incall Recording") in the app).
@@ -26,6 +27,10 @@ there's **NO** need to use root (for "System Mixer Incall Recording") in the app
 
 Call Recorder by axet: [f-droid link](https://f-droid.org/en/packages/com.github.axet.callrecorder/),
 [sources](https://gitlab.com/axet/android-call-recorder).
+
+Repo mirrors:
+[Magisk-Modules-Repo](https://github.com/Magisk-Modules-Repo/callrecorder-axet),
+[di72nn](https://github.com/di72nn/callrecorder-axet).
 
 
 ## License
